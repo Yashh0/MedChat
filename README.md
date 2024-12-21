@@ -9,12 +9,12 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ---
-# MedChat
-# 🩺 **Medical Knowledge Assistant** 🌟
+# 
+# 🩺 **MedChat** 🌟
 
 
 Welcome to the **MedChat**! 🌍  
-A cutting-edge tool designed to help you with all your medical queries. Whether you're a student, a healthcare professional, or just someone curious about health topics, this tool will provide you with **detailed, in-depth explanations** on a wide range of medical topics. From symptoms, causes, and treatments to complex medical terms and theories, we've got you covered!
+A Medical Knowledge Assistant , cutting-edge tool designed to help you with all your medical queries. Whether you're a student, a healthcare professional, or just someone curious about health topics, this tool will provide you with **detailed, in-depth explanations** on a wide range of medical topics. From symptoms, causes, and treatments to complex medical terms and theories, we've got you covered!
 
 ---
 
@@ -57,28 +57,37 @@ Install required dependencies:
 
 bash
 Copy code
+```
 pip install -r requirements.txt
+```
 Set your environment variables (you’ll need a Groq API Key):
 
 Create a .env file and add:
 makefile
 Copy code
+```python
 GROQ_API_KEY=your_api_key_here
+```
 Run the Streamlit app locally:
 
 bash
 Copy code
+```python
 streamlit run app.py
-🌐 Access the Medical Knowledge Assistant
+```
+
+## 🌐 Access the Medical Knowledge Assistant
 You can start asking your questions right away! Just visit the link below and have your medical queries answered:
 
-Medical Knowledge Assistant on Hugging Face
+[**Medical Knowledge Assistant on Hugging Face**](https://huggingface.co/spaces/yash001010/MedChat)
 
-🎉 Example Use Cases
+
+##  🎉 Example Use Cases
 "What is the difference between Type 1 and Type 2 Diabetes?"
 "What are the symptoms of the flu?"
 "Explain the treatment process for a heart attack."
-✨ Contributing
+
+## ✨ Contributing
 If you’re passionate about medicine and AI and want to help improve this project, feel free to contribute! You can:
 
 Add more medical content to the dataset.
@@ -86,11 +95,10 @@ Improve the UI/UX of the Streamlit app.
 Suggest new features or report bugs.
 Feel free to fork the repository, create an issue, or submit a pull request!
 
-📝 Disclaimer
+##  📝 Disclaimer
 This tool is intended for informational purposes only. While we aim to provide accurate and reliable information, always consult a medical professional for diagnosis or treatment.
 
-📱 Contact
+## 📱 Contact
 For any questions or feedback, reach out to:
 
-Email: yash@example.com
-GitHub: @yash001010
+Email: yshtrivdi@gmail.com
