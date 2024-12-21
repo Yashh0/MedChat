@@ -82,10 +82,14 @@ You can start asking your questions right away! Just visit the link below and ha
 [**Medical Knowledge Assistant on Hugging Face**](https://huggingface.co/spaces/yash001010/MedChat)
 
 
-##  🎉 Example Use Cases
-"What is the difference between Type 1 and Type 2 Diabetes?"
-"What are the symptoms of the flu?"
-"Explain the treatment process for a heart attack."
+## 🎉 **Example Use Cases**
+
+1) **"What are the underlying pathophysiological mechanisms differentiating Type 1 and Type 2 Diabetes, and how do their long-term complications vary?"**
+
+2) **"Can you elaborate on the clinical presentation, diagnostic criteria, and differential diagnoses for Influenza, including its potential impact on immunocompromised patients?"**
+
+3) **"Describe the step-by-step management protocol for acute myocardial infarction, including pharmacological interventions, percutaneous coronary interventions, and post-discharge care strategies."**
+
 
 ## ✨ Contributing
 If you’re passionate about medicine and AI and want to help improve this project, feel free to contribute! You can:
