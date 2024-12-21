@@ -51,8 +51,8 @@ If you’re trying to run this locally or want to get technical with it, follow 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/med-knowledge-assistant.git
-   cd med-knowledge-assistant
+   git clone https://github.com/Yashh0/MedChat.git
+   cd MedChat
 Install required dependencies:
 
 bash
