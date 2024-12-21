@@ -17,7 +17,12 @@ Welcome to the **MedChat**! 🌍
 A Medical Knowledge Assistant , cutting-edge tool designed to help you with all your medical queries. Whether you're a student, a healthcare professional, or just someone curious about health topics, this tool will provide you with **detailed, in-depth explanations** on a wide range of medical topics. From symptoms, causes, and treatments to complex medical terms and theories, we've got you covered!
 
 ---
+## 🌐 Access the Medical Knowledge Assistant
+You can start asking your questions right away! Just visit the link below and have your medical queries answered:
 
+[**Medical Knowledge Assistant on Hugging Face**](https://huggingface.co/spaces/yash001010/MedChat)
+
+---
 ## 🚀 **Features**
 
 - **Detailed Answers**: Get comprehensive and accurate responses to your medical queries, including definitions, causes, symptoms, and treatments.
@@ -75,12 +80,6 @@ Copy code
 ```python
 streamlit run app.py
 ```
-
-## 🌐 Access the Medical Knowledge Assistant
-You can start asking your questions right away! Just visit the link below and have your medical queries answered:
-
-[**Medical Knowledge Assistant on Hugging Face**](https://huggingface.co/spaces/yash001010/MedChat)
-
 
 ## 🎉 **Example Use Cases**
 
